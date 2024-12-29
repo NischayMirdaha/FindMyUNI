@@ -1,0 +1,36 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  background-color: #f8f8f8;
+}
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem;
+  background-color: #f4f9ff;
+}
+
+.search-bar {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.features {
+  padding: 2rem;
+  text-align: center;
+}
+
+.footer {
+  background-color: #f8f8f8;
+  text-align: center;
+  padding: 1rem;
+}
